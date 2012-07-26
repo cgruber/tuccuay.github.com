@@ -124,3 +124,9 @@ JB :
   #   ./_includes/custom/[HELPER]
   # where [HELPER] is the name of the helper you are overriding.
   
+gallery_dir: photos
+galleries:
+  chile_trip:
+    test: dota-2.jpg
+  japan_trip:
+    test2: dota.jpg
